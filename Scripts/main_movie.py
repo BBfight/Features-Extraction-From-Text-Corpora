@@ -1,5 +1,3 @@
-__author__ = 'ettore'
-
 from feature_extraction_movie import *
 import csv
 

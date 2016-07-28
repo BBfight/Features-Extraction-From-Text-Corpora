@@ -1,5 +1,4 @@
 #FILE NOT USED! IT JUST EXPLAINS HOW TO USE feature_extraction_topic.py
-__author__ = 'ettore'
 
 from feature_extraction_topic import *
 import csv

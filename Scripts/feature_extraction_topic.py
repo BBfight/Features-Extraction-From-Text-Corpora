@@ -1,5 +1,3 @@
-__author__ = 'ettore'
-
 # feature extraction function
 from functools import reduce
 import os

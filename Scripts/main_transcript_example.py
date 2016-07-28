@@ -1,4 +1,4 @@
-__author__ = 'ettore'
+
 # THIS FILE IS NOT USED. IT IS JUST TO EXPLAIN HOW TO USE feature_extraction_transcript.py
 from feature_extraction_transcript import *
 import csv
